@@ -25,7 +25,10 @@
 <br><br> 
 <h3 align="center">🐋 Contact 🐋</h3>
 <div align="center">
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:doorian0615@gmail.com)
+<a href="mailto:doorian0615@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
 </div>
 
 <br><br> 

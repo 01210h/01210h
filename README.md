@@ -24,7 +24,9 @@
 </div>
 <br><br> 
 <h3 align="center">🐋 Contact 🐋</h3>
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:doorian0615@gmail.com)
+<div align="center">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:doorian0615@gmail.com)
+</div>
 
 <br><br> 
 <h3 align="center">🌊 Hobby 🌊</h3>

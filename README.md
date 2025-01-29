@@ -1,8 +1,8 @@
 ![Image](https://github.com/user-attachments/assets/9e48370e-6676-4758-8389-dbbbf7d57b59)
 <br><br> 
 <br><br> 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=01210h)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=01210h)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=01210h&cache_seconds=14400)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=01210h&cache_seconds=14400)](https://github.com/anuraghazra/github-readme-stats)
 <br><br> 
 <br><br> 
 

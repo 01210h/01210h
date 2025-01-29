@@ -1,5 +1,5 @@
 ![Image](https://github.com/user-attachments/assets/9e48370e-6676-4758-8389-dbbbf7d57b59)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={깃헙 아이디})
 <!--
 **01210h/01210h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -30,11 +30,5 @@
 </a>
 
 </div>
+ 
 
-<br><br> 
-<h3 align="center">🌊 Hobby 🌊</h3>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
-  <img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white">
-</div>

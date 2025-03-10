@@ -1,7 +1,7 @@
 ![Image](https://github.com/user-attachments/assets/9e48370e-6676-4758-8389-dbbbf7d57b59)
 ---
 <h2>👋 Hello! My name is Rian Lee.</h2> 
-<h3>I'm studying in INHA University(CSE24).</h3>
+<h3>I'm studying in INHA University(Liberal Studies(24) - 2024/03~ / CSE (24) - 2025/03~).</h3>
 
 <h3 align="center">🪼 Studying 🪼</h3>
 

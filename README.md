@@ -5,8 +5,9 @@
 [![01210h's GitHub stats](https://github-readme-stats.vercel.app/api?username=01210h)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="center">🐠 OS 🐠</h3>
-![js](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
-
+<div align="center">
+  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">
+</div>
 <h3 align="center">🪼 Studying 🪼</h3>
 
 <div align="center">
@@ -15,7 +16,7 @@
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://🐟/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
-</div>🐠
+</div>
 <br><br> 
 <h3 align="center">🐟 Tools 🐟</h3>
 

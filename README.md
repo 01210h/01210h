@@ -1,8 +1,8 @@
 ![Image](https://github.com/user-attachments/assets/9e48370e-6676-4758-8389-dbbbf7d57b59)
-<br><br> 
-<h2>👋 Hello! My name is Rian Lee.</h2>
-<br><br> 
+---
+<h2>👋 Hello! My name is Rian Lee.</h2> 
 <h2>I'm studying in INHA University(CSE24).</h2>
+---
 <h3 align="center">🪼 Studying 🪼</h3>
 
 <div align="center">

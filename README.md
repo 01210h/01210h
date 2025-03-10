@@ -2,7 +2,7 @@
 ---
 <h2>👋 Hello! My name is Rian Lee.</h2> 
 <h3>I'm studying in INHA University(Liberal Studies(24) - 2024/03~ / CSE (24) - 2025/03~).</h3>
-[![01210h's GitHub stats](https://github-readme-stats.vercel.app/api?username=01210h]&hide=contribs,prs&show_icons=true&theme=graywhite)
+[![01210h's GitHub stats](https://github-readme-stats.vercel.app/api?username=01210h)]&hide=contribs,prs&show_icons=true&theme=graywhite)
 <h3 align="center">🪼 Studying 🪼</h3>
 
 <div align="center">

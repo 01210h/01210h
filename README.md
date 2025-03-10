@@ -2,12 +2,14 @@
 ---
 <h2>👋 Hello! My name is Rian Lee.</h2> 
 <h3>I'm studying in INHA University(Liberal Studies(24) - 2024/03~ / CSE (24) - 2025/03~).</h3>
-[![01210h's GitHub stats](https://github-readme-stats.vercel.app/api?username=01210h)](https://github.com/anuraghazra/github-readme-stats)
+![01210h's GitHub stats](https://github-readme-stats.vercel.app/api?01210h=anuraghazra&show_icons=true&theme=radical)
 
 <h3 align="center">🐠 OS 🐠</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">
 </div>
+
+
 <h3 align="center">🪼 Studying 🪼</h3>
 
 <div align="center">

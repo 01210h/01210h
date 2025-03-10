@@ -5,7 +5,7 @@
 
 <h3 align="center">🐙 Github Stats 🐙</h3>
 <br><br>
-[![01210h's GitHub stats](https://github-readme-stats.vercel.app/api?username=01210h)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=01210h)](https://github.com/anuraghazra/github-readme-stats)
 <br><br>
 
 <h3 align="center">🐠 OS 🐠</h3>

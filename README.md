@@ -6,27 +6,10 @@
   (Liberal Studies(24) - 2024/03~ / CSE (24) - 2025/03~).
 </pre>
 <hr>
-<style>
-  table{
-      width:100%;
-    }
-  th{
-  background-color : #0A3D62;
-  color: white;
-  }
-  td{
-    
-  }
-  caption{
-    caption-side:bottom;
-    font: bold 11px;
-  }
-</style>
-<table>
   <caption>[ activity ]</caption>
   <tr>
-    <th> 하고 있는 활동 </th>
-    <th> 기간 </th>
+    <th style="background-color:#0A3D62; color:white;">하고 있는 활동</th>
+      <th style="background-color:#0A3D62; color:white;">기간</th>
   </tr>
   <tr>
     <td>bash/Zsh study</td>

@@ -6,13 +6,14 @@
   (Liberal Studies(24) - 2024/03~ / CSE (24) - 2025/03~).
 </pre>
 <hr>
-<table>
+<br>
+<table style="width 80%>
   <tr>
-    <th style="background-color:#0A3D62; color:white;">하고 있는 활동</th>
-      <th style="background-color:#0A3D62; color:white;">기간</th>
+    <th style="background-color:#0A3D62; color:white;width: 60%;">하고 있는 활동</th>
+      <th style="background-color:#0A3D62; color:white;width:40%;">기간</th>
   </tr>
   <tr>
-    <td>bash/Zsh study</td>
+    <td>bash/Zsh study (in Narae) </td>
     <td>2025/03 ~ </td>
   </tr>
 </table>

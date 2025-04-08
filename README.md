@@ -17,6 +17,7 @@
     <td>2025/03 ~ </td>
   </tr>
 </table>
+<br>
 <hr>
 <br><br>
 <h3 align="center">🐙 Github Stats 🐙</h3>

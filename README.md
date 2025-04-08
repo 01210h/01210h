@@ -1,11 +1,38 @@
 ![Image](https://github.com/user-attachments/assets/9e48370e-6676-4758-8389-dbbbf7d57b59)
----
+<hr>
 <h2>👋 Hello! My name is Rian Lee.</h2> 
 <pre>
   I'm studying at INHA University.
   (Liberal Studies(24) - 2024/03~ / CSE (24) - 2025/03~).
 </pre>
-
+<hr>
+<style>
+  table{
+      width:100%;
+    }
+  th{
+  background-color : #0A3D62;
+  color: white;
+  }
+  td{
+    
+  }
+  caption{
+    caption-side:bottom;
+    font: bold 11px;
+  }
+</style>
+<table>
+  <caption>[ activity ]</caption>
+  <tr>
+    <th> 하고 있는 활동 </th>
+    <th> 기간 </th>
+  </tr>
+  <tr>
+    <td>bash/Zsh study</td>
+    <td>2025/03 ~ </td>
+  </tr>
+</table>
 <h3 align="center">🐙 Github Stats 🐙</h3>
 <br><br>
 

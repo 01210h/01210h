@@ -7,7 +7,7 @@
 </pre>
 <hr>
 <br>
-<table style="width 80%>
+<table style="width 80%;">
   <tr>
     <th style="background-color:#0A3D62; color:white;width: 60%;">하고 있는 활동</th>
     <th style="background-color:#0A3D62; color:white;width: 40%;">기간</th>

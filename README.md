@@ -7,7 +7,6 @@
 </pre>
 <hr>
 <table>
-  <caption>[ activity ]</caption>
   <tr>
     <th style="background-color:#0A3D62; color:white;">하고 있는 활동</th>
       <th style="background-color:#0A3D62; color:white;">기간</th>

@@ -21,6 +21,7 @@
 <hr>
 <br><br>
 <h3 align="center">🐙 Github Stats 🐙</h3>
+![01210h's GitHub stats](https://github-readme-stats.vercel.app/api?username=01210h&theme=prussian&show_icons=true)
 <br><br>
 
 <h3 align="center">🪼 Studying 🪼</h3>

@@ -23,12 +23,6 @@
 <h3 align="center">🐙 Github Stats 🐙</h3>
 <br><br>
 
-<h3 align="center">🐠 OS 🐠</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">
-</div>
-
-
 <h3 align="center">🪼 Studying 🪼</h3>
 
 <div align="center">

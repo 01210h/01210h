@@ -25,7 +25,7 @@
 <div align="center">
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=01210h&theme=prussian&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=01210h&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=01210h&layout=compact&theme=prussian)
 
 </div>
 

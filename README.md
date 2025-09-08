@@ -3,7 +3,7 @@
 <h2>👋 Hello! My name is Rian Lee.</h2> 
 <pre>
   I'm studying at INHA University.
-  (Liberal Studies(24) - 2024/03~ / CSE (24) - 2025/03~).
+  (Liberal Studies(24) - 2024/03~ / CSE (24) - 2025/03~ / EEC(dual major) - 2025/09~ ).
 </pre>
 <hr>
 <br>
@@ -15,6 +15,10 @@
   <tr>
     <td>bash/Zsh study (in Narae) </td>
     <td>2025/03 ~ </td>
+  </tr>
+  <tr>
+    <td>Verilog HDL (with verilator) study </td>
+    <td>2025/09 ~ </td>
   </tr>
 </table>
 <br>

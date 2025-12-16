@@ -24,31 +24,24 @@
 <br>
 <hr>
 <br><br>
+<!--
 <h3 align="center">🐙 Stats 🐙</h3>
-
 <div align="center">
-  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=01210h&theme=prussian&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=01210h&layout=compact&theme=prussian)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rianlee0615)](https://solved.ac/rianlee0615/)
-
 </div>
-
 <br><br>
-
 <h3 align="center">🪼 Studying 🪼</h3>
-
 <div align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
-
 </div>
 <br><br> 
 <h3 align="center">🐟 Tools 🐟</h3>
-
 <div align="center">
   <img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
@@ -59,7 +52,7 @@
 <a href="mailto:doorian0615@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-
 </div>
+-->
  
 

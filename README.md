@@ -14,11 +14,11 @@
   </tr>
   <tr>
     <td>bash/Zsh study (in Narae) </td>
-    <td>2025/03 ~ </td>
+    <td>2025/03 ~ 2025/05</td>
   </tr>
   <tr>
     <td>Verilog HDL (with verilator) study </td>
-    <td>2025/09 ~ </td>
+    <td>2025/09 ~ 2025/10</td>
   </tr>
 </table>
 <br>

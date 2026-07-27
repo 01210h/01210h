@@ -20,6 +20,10 @@
     <td>Verilog HDL (with verilator) study </td>
     <td>2025/09 ~ 2025/10</td>
   </tr>
+  <tr>
+    <td>hanium dreamup contest </td>
+    <td>2026/03 ~ 2026/10</td>
+  </tr>
 </table>
 <br>
 <hr>

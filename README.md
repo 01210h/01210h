@@ -24,6 +24,10 @@
     <td>hanium dreamup contest </td>
     <td>2026/03 ~ 2026/10</td>
   </tr>
+  <tr>
+    <td>STM32 embedded study</td>
+    <td>2026/07 ~ 2026/08</td>
+  </tr>
 </table>
 <br>
 <hr>

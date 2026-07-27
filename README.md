@@ -29,12 +29,7 @@
 <hr>
 <br><br>
 
-<h3 align="center">🐙 Stats 🐙</h3>
-<div align="center">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=01210h&theme=prussian&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=01210h&layout=compact&theme=prussian)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rianlee0615)](https://solved.ac/rianlee0615/)
-</div>
+
 <br><br>
 <h3 align="center">🪼 Studying 🪼</h3>
 <div align="center">
@@ -53,7 +48,7 @@
 <br><br> 
 <h3 align="center">🐋 Contact 🐋</h3>
 <div align="center">
-<a href="mailto:doorian0615@gmail.com">
+<a href="mailto:doorian0615@inha.edu">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 </div>
